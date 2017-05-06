@@ -1,6 +1,6 @@
 # Glitter-Gitter
 
-Glitter gitter is a simple userscript that allows you to open someone's Free Code Camp profile by clicking their name.
+Glitter gitter is a simple userscript that allows you to open someone's Free Code Camp profile by clicking their name in chat.
 
 
 ## Getting started
@@ -15,9 +15,9 @@ Once you have it installed, go to the [chat](https://gitter.im/FreeCodeCamp/Help
 
 ![screenshot](preview.png)
 
-Red Background Ninja - Uses the name without the @.
+Red Background Ninja - Uses the name the @.
 
-Non-Red Background Ninja - Uses the name with the @.
+Non-Red Background Ninja - Uses the name without the @.
 
 Why? Sometimes one won't work, but the other will. There isn't any definite way to tell which one won't land a 301 at this time.
 

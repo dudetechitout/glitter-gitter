@@ -28,8 +28,8 @@ if(typeof jQuery === 'undefined'|| !jQuery){
                 var profile = $this.children("div#profile");
                 var url = "http://freecodecamp.com/";
 
-                var profile_one = '<span id="first"><a href="' + url + name.html() + '" target="_blank"><img style="width:20px;" src="http://i.imgur.com/ZvExY7I.png"></a></span>';
-                var profile_two = '<span id="second"><a href="' + url + username.html().substr(1) + '" target="_blank"><img style="width:20px;" src="http://i.imgur.com/vjBpVgj.png"></a></span>';
+                var profile_one = '<span id="first"><a href="' + url + username.html().substr(1) + '" target="_blank"><img style="width:20px;" src="http://i.imgur.com/ZvExY7I.png"></a></span>';
+                var profile_two = '<span id="second"><a href="' + url + name.html() + '" target="_blank"><img style="width:20px;" src="http://i.imgur.com/vjBpVgj.png"></a></span>';
                 var profile_display = profile_one + ' ' + profile_two;
                 
                 if(!profile.length) {
