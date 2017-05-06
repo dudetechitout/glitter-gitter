@@ -1,6 +1,6 @@
 # Glitter-Gitter
 
-Glitter gitter is a simple userscript that allows you to open someone's Free Code Camp profile by clicking their name in chat.
+Glitter gitter is a simple userscript that allows you to open someone's Free Code Camp profile by clicking a ninja while in chat.
 
 
 ## Getting started
